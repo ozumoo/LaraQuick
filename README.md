@@ -1,7 +1,11 @@
 # Trainning
 
 
-do the following. to contribute
+# Clone : 
+  
+  git clone https://github.com/ozumoo/Trainning.git
+
+# Do the following. to contribute
 
   1-update the master branch  ( git pull master )
   
